@@ -10,5 +10,6 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="D:/Eclipse/tomcat/apache-tomcat-9.0.27/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hong Quang/Downloads/some-jdbc-drivers/sqljdbc4.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
