@@ -1,0 +1,14 @@
+CREATE DATABASE MYDB
+GO
+
+USE MYDB
+
+CREATE TABLE USER_ACCOUNT
+(
+	ID varchar(20) NOT NULL,
+	Email varchar(100) NOT NULL,
+	Name nvarchar(100) NOT NULL,
+	Password varchar(100) NOT NULL,
+
+	PRIMARY KEY(ID)
+)

@@ -12,7 +12,7 @@ public class ConnectionManager {
    {   	   	
 	   String hostName = "localhost";	   	
 	   String sqlInstanceName = "";	   	
-	   String database = "Mydatabase";	   	
+	   String database = "MYDB";	   	
 	   String userName = "hongquang";	   	
 	   String password = "12345";
    		
